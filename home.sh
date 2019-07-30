@@ -3,3 +3,4 @@ dev
 login
 logout
 release
+fix
