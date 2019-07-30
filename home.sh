@@ -1,3 +1,4 @@
 master
 dev
 login
+logout
